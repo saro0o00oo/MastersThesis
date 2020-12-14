@@ -17,7 +17,7 @@ The results of simulation on the well-known KITTI dataset demonstrates that
 our system’s accuracy improved compared to what is considered to be one of the best
 state-of-the-art monocular Visual Odometry system.
 
-
+The full version of the thesis is available here: https://macsphere.mcmaster.ca/bitstream/11375/23085/2/Alizadeh_Sara_2017September_M.A.Sc.pdf
 
 
 <table>
